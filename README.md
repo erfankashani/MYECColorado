@@ -8,7 +8,7 @@ MYECColorado.com/Documentation/index.html located here MYEColorado/docs/Document
 
 ### Want to help improve the website?
 ---------
-1. Fork this repository, then Open it in your computer
+1. Download the Github client, Fork this repository, then click on Clone or Download-> Open in Desktop 
 2. Make the changes you would like to see, test the website and make sure it works locally
 3. Commit your changes at feature completion points using a suitable commit message and push your changes
 4. Once you are done with a feature, or you have completed all the work, just submit a Pull Request from your repository by going to your repo and clicking the "New pull request" button and submit
