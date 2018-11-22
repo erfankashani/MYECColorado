@@ -1,6 +1,6 @@
 <?php
 
-// Only process POST reqeusts.
+Only process POST reqeusts.
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Get the form fields and remove whitespace.
     $name = strip_tags(trim($_POST["name"]));
@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Set the recipient email address.
     // FIXME: Update this to your desired email address.
-    $recipient = "contact@mosque.com";
+    $recipient = "coloradomyec@gmail.com";
 
     // Set the email subject.
     $subject = "New contact from $name";
@@ -50,4 +50,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "There was a problem with your submission, please try again.";
 }
 
-?>
+// ?>
+
+
